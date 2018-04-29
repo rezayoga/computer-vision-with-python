@@ -1,8 +1,13 @@
 # Computer Vision With Python
 > Belajar Computer Vision menggunakan Python
 
+## Prerequisites
+- Pernah menggunakan `Python, R, Java, Matlab, bahasa pemrograman lainnya atau bahkan Excel (I'm not a Python geek)`, setidaknya anda pernah membuat ```Fibonacci Sequence```  dengannya, yang sudah termasuk didalamnya `Logical and Structured Thinking`
+- Memahami konsep sederhana `Data structure`
+- Memahami konsep sederhana `Aljabar linear`
+
 ## Pemasangan (Installation) dan Penggunaan Pertama
-Silahkan download [Anaconda](https://anaconda.com/download). Install sesuai dengan sistem operasi masing - masing. Setelah itu clone / download repositori ini ke folder kalian inginkan.
+Silahkan download [Anaconda](https://anaconda.com/download). Install sesuai dengan sistem operasi masing - masing. Setelah itu clone / download repositori ini ke folder anda inginkan.
 
 ## Menggunakan Anaconda Navigator
 - MacOS dan Linux:
@@ -19,7 +24,7 @@ Tampilan Anaconda Navigator akan seperti ini.
 
 ![Anaconda Navigator](./media/README/Anaconda.jpg)
 
-Silahkan launch jupyter lab / jupyter notebook kemudian navigasi ke folder yang telah kalian simpan.
+Silahkan launch jupyter lab / jupyter notebook kemudian navigasi ke folder yang telah anda simpan.
 
 ## Menggunakan Terminal atau Anaconda Prompt
 - MacOS dan Linux:
