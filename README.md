@@ -65,7 +65,7 @@ Silakan lihat `` requirements.txt ``.
 ![jupyter-notebook](./media/README/JupyterNotebook.jpg)
 
 ## Dataset
-- Dataset yang digunakan: The MNIST Database of handwritten digits [Dapat dilihat disini](http://yann.lecun.com/exdb/mnist/)
+- Dataset yang digunakan: The MNIST Database of handwritten digits [bisa dilihat disini](http://yann.lecun.com/exdb/mnist/)
 
 ## Inspirasi
 Materi repositori ini terinspirasi dari beberapa repository pembelajaran Computer Vision dan Image Processing.
